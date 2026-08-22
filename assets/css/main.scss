@@ -81,12 +81,11 @@
 
 // Custom overrides
 
-	/* Push section headers and descriptions down 1/4 inch to clear image */
-	#one > .inner > header.major,
-	#one > .inner > p,
-	#two > .inner > header.major,
-	#two > .inner > p,
-	#three > .inner > header.major,
-	#three > .inner > p {
+	/* Push tile headers and descriptions down 1/4 inch to clear images */
+	.tiles article header.major {
+		margin-top: 0.25in;
+	}
+
+	.tiles article p {
 		margin-top: 0.25in;
 	}
