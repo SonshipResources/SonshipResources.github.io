@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: '"And He Will Gather a Remnant"'
+landing-title: 'And He Will Gather a Remnant'
 description: null
 image: null
 author: null
