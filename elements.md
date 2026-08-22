@@ -16,6 +16,7 @@ nav-menu: true
 		<header class="major">
 			<h1>Essentials</h1>
 		</header>
+		<div class="image main" style="background-image: url('{{ site.baseurl }}/assets/images/Jesus.jpg'); background-position: center top;"></div>
 
 <!-- Content -->
 <h2 id="content">Sample Content</h2>
