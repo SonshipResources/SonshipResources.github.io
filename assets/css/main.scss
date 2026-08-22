@@ -81,7 +81,12 @@
 
 // Custom overrides
 
-	/* Essentials page image positioning */
-	body.essentials-page #main > .alt > section #one > .inner > span.image.main {
-		background-position: center top;
+	/* Push section headers and descriptions down 1/4 inch to clear image */
+	#one > .inner > header.major,
+	#one > .inner > p,
+	#two > .inner > header.major,
+	#two > .inner > p,
+	#three > .inner > header.major,
+	#three > .inner > p {
+		margin-top: 0.25in;
 	}
