@@ -1,0 +1,43 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you want to repeat in multiple places.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: SonshipResources
+email: your-email@example.com
+description: >-
+  A beautiful resource site with an elegant Plum color scheme,
+  built with Jekyll and the Forty theme.
+baseurl: ""
+url: "https://SonshipResources.github.io"
+twitter_username: 
+github_username: SonshipResources
+
+# Build settings
+theme: jekyll-theme-forty
+
+# Theme customization for Plum colors
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+  - jekyll-feed
+
+# Exclude from processing
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
