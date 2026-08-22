@@ -2,7 +2,7 @@
 title: Sonship
 subtitle: Resources Online
 email: youremailaddress@gmail.com
-description: Welcome to **Sonship Resources Online** - a valuable companion site for this Mumble community.<br /> and released under the Creative Commons.
+description: Welcome to <strong>Sonship Resources Online</strong><br /> - a valuable companion site for this Mumble community.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://SonshipResources.github.io" # the base hostname & protocol for your site
 author:
