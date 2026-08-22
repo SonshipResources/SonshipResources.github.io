@@ -1,26 +1,29 @@
 ---
 ---
-@import 'vendor/normalize';
-@import 'vendor/font-awesome.min';
-@import 'vendor/main';
-@import 'layout/body';
-@import 'layout/type';
-@import 'layout/links';
-@import 'layout/list';
-@import 'layout/section';
-@import 'layout/form';
-@import 'layout/table';
-@import 'layout/button';
-@import 'layout/image';
-@import 'layout/icon';
-@import 'layout/spotlights';
+@import 'libs/vars';
+@import 'libs/functions';
+@import 'libs/mixins';
+@import 'libs/skel';
+@import 'base/page';
+@import 'base/typography';
+@import 'components/box';
+@import 'components/button';
+@import 'components/contact-method';
+@import 'components/form';
+@import 'components/icon';
+@import 'components/image';
+@import 'components/list';
+@import 'components/section';
+@import 'components/spotlights';
+@import 'components/table';
 @import 'components/tiles';
 @import 'layout/banner';
-@import 'layout/main';
 @import 'layout/contact';
 @import 'layout/footer';
-@import 'layout/wrapper';
+@import 'layout/header';
+@import 'layout/main';
 @import 'layout/menu';
+@import 'layout/wrapper';
 
 // Custom overrides
 
