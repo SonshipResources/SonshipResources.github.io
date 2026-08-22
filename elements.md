@@ -8,7 +8,7 @@ nav-menu: true
 ---
 
 <!-- Main -->
-<div id="main" class="alt essentials-page">
+<div id="main" class="alt">
 
 <!-- One -->
 <section id="one">
