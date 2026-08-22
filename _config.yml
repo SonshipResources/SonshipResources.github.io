@@ -1,43 +1,44 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you want to repeat in multiple places.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+# site settings
+title: Sonship Resources
+subtitle: Forty Theme with Plum Colors
+email: youremailaddress@gmail.com
+description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://SonshipResources.github.io" # the base hostname & protocol for your site
+author:
+street_address: 1234 Somewhere Road
+city: Nashville
+state: TN
+zip_code: 55555
+country: United States of America
+phone: (716) 555-5555
 
-# Site settings
-title: SonshipResources
-email: your-email@example.com
-description: >-
-  A beautiful resource site with an elegant Plum color scheme,
-  built with Jekyll and the Forty theme.
-baseurl: ""
-url: "https://SonshipResources.github.io"
-twitter_username: 
-github_username: SonshipResources
+# homepage tiles
+tiles-source: pages # accepts "posts" or "pages"
+tiles-count: 6
 
-# Build settings
-theme: jekyll-theme-forty
+# social settings (key must match name of font awesome icon)
+# see https://fontawesome.com/icons?d=gallery&p=2&s=brands
+# Icons are not shown if value is empty
+# You need to restart jekyll for changes to have an effect
+socials:
+  GitHub: https://github.com/SonshipResources
+  GitLab:
+  Google-Plus:
+  Instagram:
+  LinkedIn:
+  Twitter:
+  Facebook:
+  Slack:
 
-# Theme customization for Plum colors
+# build settings
+markdown: kramdown
+
 sass:
-  sass_dir: _sass
   style: compressed
 
-plugins:
-  - jekyll-feed
-
-# Exclude from processing
 exclude:
-  - .sass-cache/
-  - .jekyll-cache/
-  - gemfile
-  - Gemfile.lock
-  - node_modules
-  - vendor/bundle/
-  - vendor/cache/
-  - vendor/gems/
-  - vendor/ruby/
+- "*.gemspec"
+- LICENSE.md
+- CONTRIBUTING.md
+- README.md 
