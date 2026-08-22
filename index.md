@@ -5,7 +5,14 @@ title: Welcome to SonshipResources
 
 # Welcome to SonshipResources
 
-This is your new Jekyll site with the Forty theme. You can edit this content and add more pages as needed.
+This is your new Jekyll site with the **Forty theme** customized with a beautiful **Plum color scheme**.
+
+## What You Can Do Here
+
+- Create and edit pages
+- Build a blog or portfolio
+- Share your resources and ideas
+- Enjoy the elegant plum-themed design
 
 ## Getting Started
 
@@ -14,4 +21,14 @@ This is your new Jekyll site with the Forty theme. You can edit this content and
 3. Customize the theme colors in `_sass/_variables.scss`
 4. Push to GitHub to deploy
 
-Enjoy building your site!
+## Your Plum Color Palette
+
+The site features a sophisticated color scheme:
+
+- **Primary Plum**: #8e4585
+- **Dark Plum**: #6b3564
+- **Lavender**: #d4a5d4
+- **Rose-Plum Accent**: #c896a8
+- **Dark Background**: #1a1a1a
+
+Enjoy building your site! 🎨
