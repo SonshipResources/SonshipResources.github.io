@@ -8,7 +8,7 @@ nav-menu: true
 ---
 
 <!-- Main -->
-<div id="main" class="alt">
+<div id="main" class="alt essentials-page">
 
 <!-- One -->
 <section id="one">
@@ -20,8 +20,6 @@ nav-menu: true
 		<div style="text-align: center; margin: 0 0 2rem 0;">
 			<img src="{{ site.baseurl }}/assets/images/Jesus.jpg" alt="Jesus Christ is Lord" style="width: 50%; max-width: 520px; height: auto; display: inline-block;" />
 		</div>
-
-		<h2>Jesus Christ is Lord</h2>
 	</div>
 </section>
 
