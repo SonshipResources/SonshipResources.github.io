@@ -2,7 +2,8 @@
 layout: page
 title: Essentials
 description: Jesus Christ is Lord!
-image: assets/images/pic01.jpg
+image: assets/images/Jesus.jpg
+image-position: center top
 nav-menu: true
 ---
 
