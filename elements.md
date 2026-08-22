@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Essentials
 description: Jesus Christ is Lord!
 image: assets/images/Jesus.jpg
@@ -16,7 +16,6 @@ nav-menu: true
 		<header class="major">
 			<h1>Essentials</h1>
 		</header>
-		<div class="image main" style="background-image: url('{{ site.baseurl }}/assets/images/Jesus.jpg'); background-position: center top;"></div>
 
 <!-- Content -->
 <h2 id="content">Sample Content</h2>
@@ -407,8 +406,5 @@ print 'It took ' + i + ' iterations to sort the deck.';
 
 </div>
 </div>
-
-</div>
-</section>
 
 </div>
